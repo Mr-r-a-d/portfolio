@@ -26,7 +26,7 @@ This is my personal website showcasing my professional experience, skills, and p
 
 ## Deployment
 
-This site is deployed using GitHub Pages and can be accessed at [https://username.github.io/repository-name](https://username.github.io/repository-name).
+This site is deployed using GitHub Pages and can be accessed at [https://Mr-r-a-d.github.io/portfolio](https://Mr-r-a-d.github.io/portfolio).
 
 ## License
 
